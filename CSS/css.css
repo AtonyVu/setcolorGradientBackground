@@ -6,3 +6,8 @@ body {
 h1 {
   text-shadow: 0 0 10px #02aef0, 0 0 8px #ff0000;
 }
+input {
+  width: 150px;
+  height: 60px;
+  margin: 0 20px;
+}
