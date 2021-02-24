@@ -1,0 +1,8 @@
+body {
+  text-align: center;
+  background: linear-gradient(to right, #02aef0, #ff0000);
+  padding: 20px;
+}
+h1 {
+  text-shadow: 0 0 10px #02aef0, 0 0 8px #ff0000;
+}
